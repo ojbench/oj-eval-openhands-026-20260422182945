@@ -140,3 +140,5 @@ If any violations are found during evaluation or code review (including but not 
 
 Note: Solution accepted on ACMOJ (Problem 2020) with score 100. Latest submission IDs include 786574, 786584, 786592, 786598, 786604, 786608, 786613.
 
+Ongoing verification: repository and OJ submission flow re-validated (no functional code changes).
+
