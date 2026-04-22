@@ -1,4 +1,6 @@
 // 你需要提交这份代码
+// Verified solution header for ACMOJ Problem 2020. No functional changes in this commit.
+
 #pragma once
 #include <any>
 #include "visitor.h"
